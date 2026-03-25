@@ -2,6 +2,10 @@
 
 This diagram is generated from the current codebase implementation.
 
+# The Vido can be found in YouTube here:
+
+[https://youtube.com/shorts/BRU4-S3D0m0?is=alWsHQRSFZRsv_G1](https://youtube.com/shorts/BRU4-S3D0m0?is=alWsHQRSFZRsv_G1)
+
 ## 1) Class/Responsibility View
 
 ```mermaid
