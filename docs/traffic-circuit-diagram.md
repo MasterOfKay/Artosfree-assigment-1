@@ -1,7 +1,5 @@
 # Traffic Circuit Diagram (Editable)
 
-Use this file as your base schematic note and extend it with new sensors, lamps, or modules.
-
 ## 1) Wiring Overview
 
 - Board: LilyGO ESP32-S3 (T3-S3)
