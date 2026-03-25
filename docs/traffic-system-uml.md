@@ -106,4 +106,4 @@ flowchart LR
 ## 4) Notes
 
 - Button pin in current code is GPIO 0.
-- The previously used GPIO 41 line is currently commented out in source.
+- The previously used GPIO 41 line is currently commented out, as my button brocke.
